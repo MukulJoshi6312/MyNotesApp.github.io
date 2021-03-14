@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41514081400",
+    "firebase_url": "https://my-notes-ad99f.firebaseio.com",
+    "project_id": "my-notes-ad99f",
+    "storage_bucket": "my-notes-ad99f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41514081400:android:891af09708a58f2080218d",
+        "android_client_info": {
+          "package_name": "com.mukuljoshi.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41514081400-h3u5j2oaephkkmflisfsoa8fgm205iv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmB0R1Sa6X159nlCBWirEPinfLMMM2jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41514081400-h3u5j2oaephkkmflisfsoa8fgm205iv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
